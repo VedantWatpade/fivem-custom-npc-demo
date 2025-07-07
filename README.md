@@ -1,24 +1,35 @@
 # FiveM Custom NPC Demo
 
-This project shows how to create and interact with a custom NPC in a FiveM GTA V server. Players can spawn, talk to, and trigger a custom voice line with the NPC.
+This project demonstrates how to create and interact with a custom NPC in a FiveM GTA V server. Players can spawn, talk to, and trigger a custom voice line with the NPC.
 
-# Warning
-    This project is for educational perpose only so be carefull of this dont mess with anything and mod anything unwanted things.
-    I am not responsible for anything i already done my work by taking care of policies and hereby its all your responsibility the person using this code and modding.
+---
 
-# Read Rockstart and fiveM policies before modding.
+## ⚠️ Warning
+
+This project is for **educational purposes only**.  
+- **Do not use this for cheating or malicious activity.**
+- Always respect Rockstar Games and FiveM’s policies and terms of use.
+- I am not responsible for any misuse, server bans, or damages from this code.  
+**You are responsible for your own actions.**
+
+Read Rockstar and FiveM policies before modding or running a custom server.
+
+---
 
 ## Features
+
 - Spawn an invincible NPC at custom coordinates
 - Player can interact (press `E`) to make the NPC talk
 - Supports custom voice using InteractSound resource
 
+---
+
 ## Installation
 
-1. Clone this repo or download the `npc` folder.
-2. 'client.lua' files contains the code for custom npc.
-3. Place `npc` in your FiveM server `resources` directory.
-4. (Optional) Add your own `.ogg` voice file for the NPC.
+1. Clone this repo or download the `my_npc` folder.
+2. The `client.lua` file contains the code for the custom NPC.
+3. Place the `my_npc` folder in your FiveM server’s `resources` directory.
+4. *(Optional)* Add your own `.ogg` voice file for the NPC.
 5. Add to `server.cfg`:
     ```
     ensure interact-sound
@@ -26,10 +37,14 @@ This project shows how to create and interact with a custom NPC in a FiveM GTA V
     ```
 6. Restart your server and find your NPC in-game!
 
+---
+
 ## License
 
-MIT License.  
+MIT License  
 See [LICENSE](LICENSE) for details.
+
+---
 
 ## Credits
 
@@ -37,4 +52,5 @@ See [LICENSE](LICENSE) for details.
 - FiveM platform by CitizenFX
 - InteractSound by the FiveM community
 
-**This project is for learning and demonstration purposes only. Not affiliated with Rockstar Games or CitizenFX.**
+**This project is for learning and demonstration purposes only.  
+Not affiliated with Rockstar Games or CitizenFX.**
