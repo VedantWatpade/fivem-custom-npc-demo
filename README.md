@@ -4,6 +4,7 @@ This project shows how to create and interact with a custom NPC in a FiveM GTA V
 
 # Warning
     This project is for educational perpose only so be carefull of this dont mess with anything and mod anything unwanted things.
+    I am not responsible for anything i already done my work by taking care of policies and hereby its all your responsibility the person using this code and modding.
 
 # Read Rockstart and fiveM policies before modding.
 
