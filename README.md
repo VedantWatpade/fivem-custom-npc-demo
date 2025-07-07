@@ -2,6 +2,11 @@
 
 This project shows how to create and interact with a custom NPC in a FiveM GTA V server. Players can spawn, talk to, and trigger a custom voice line with the NPC.
 
+# Warning
+    This project is for educational perpose only so be carefull of this dont mess with anything and mod anything unwanted things.
+
+# Read Rockstart and fiveM policies before modding.
+
 ## Features
 - Spawn an invincible NPC at custom coordinates
 - Player can interact (press `E`) to make the NPC talk
